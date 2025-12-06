@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF==1.23.26
+Pillow
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+torch
